@@ -1,0 +1,107 @@
+{
+  "../../node_modules/@web3-react/walletconnect-connector/dist/walletconnect-connector.esm.js -> @walletconnect/web3-provider": {
+    "id": 64488,
+    "files": [
+      "static/chunks/3418.738bf9fd893ff018.js",
+      "static/chunks/4488.c1e35cab776ec91e.js",
+      "static/chunks/1208.1cbfd5c55ac66e32.js"
+    ]
+  },
+  "../../node_modules/@web3-react/walletlink-connector/dist/walletlink-connector.esm.js -> walletlink": {
+    "id": 80983,
+    "files": [
+      "static/chunks/3418.738bf9fd893ff018.js",
+      "static/chunks/983.69fff5f0b94b9531.js",
+      "static/chunks/2581.ca21117dc530298b.js"
+    ]
+  },
+  "../components/GlobalCheckClaimStatus/index.tsx -> ./GalaxyNFTClaimModal": {
+    "id": 45988,
+    "files": [
+      "static/chunks/5988.a1f9729f93321281.js"
+    ]
+  },
+  "../hooks/useFetchListCallback.ts -> ../utils/getTokenList": {
+    "id": 23664,
+    "files": [
+      "static/chunks/393.6aad7cf5a0a42562.js",
+      "static/chunks/3664.9c51b812006ad50a.js"
+    ]
+  },
+  "../utils/web3React.ts -> @blocto/blocto-connector": {
+    "id": 8258,
+    "files": [
+      "static/chunks/06f47d9b.b65237f743503df0.js",
+      "static/chunks/8258.d7cc183b247ed4ee.js"
+    ]
+  },
+  "../utils/web3React.ts -> @web3-react/walletlink-connector": {
+    "id": 97452,
+    "files": [
+      "static/chunks/7452.2fc796808ddff1e8.js"
+    ]
+  },
+  "../views/Info/components/InfoCharts/ChartCard/index.tsx -> views/Info/components/InfoCharts/CandleChart": {
+    "id": 98487,
+    "files": [
+      "static/chunks/2298-db444149618d2644.js",
+      "static/chunks/3136.c6b2b656f220eef0.js",
+      "static/chunks/8487.cdaf4978e463d6ea.js"
+    ]
+  },
+  "../views/Nft/market/Collection/index.tsx -> ./Activity": {
+    "id": 91491,
+    "files": [
+      "static/chunks/2852-eb19cc07d1a6cde9.js",
+      "static/chunks/5739-ad93100c4a5f1b5d.js",
+      "static/chunks/1491.f745958e0d6efa67.js"
+    ]
+  },
+  "../views/Nft/market/Collection/index.tsx -> ./Traits": {
+    "id": 57189,
+    "files": [
+      "static/chunks/7189.62ba8f103d5976be.js"
+    ]
+  },
+  "../views/Predictions/Desktop.tsx -> ./components/ChainlinkChart": {
+    "id": 81031,
+    "files": [
+      "static/chunks/2077-23d50d95610daceb.js",
+      "static/chunks/9297-091cb9a409105587.js",
+      "static/chunks/5840-ba9e44edec8da081.js",
+      "static/chunks/1016.dcfee5aae0d00d07.js"
+    ]
+  },
+  "../views/Predictions/MobileChart.tsx -> ./components/ChainlinkChart": {
+    "id": 81031,
+    "files": [
+      "static/chunks/2077-23d50d95610daceb.js",
+      "static/chunks/9297-091cb9a409105587.js",
+      "static/chunks/5840-ba9e44edec8da081.js",
+      "static/chunks/1016.dcfee5aae0d00d07.js"
+    ]
+  },
+  "../views/Swap/components/Chart/BasicChart.tsx -> ./SwapLineChart": {
+    "id": 17879,
+    "files": [
+      "static/chunks/9297-091cb9a409105587.js",
+      "static/chunks/5840-ba9e44edec8da081.js",
+      "static/chunks/1282.209b02d83721529f.js"
+    ]
+  },
+  "../views/Voting/CreateProposal/index.tsx -> components/EasyMde": {
+    "id": 48049,
+    "files": [
+      "static/chunks/f65a48b9.f57d349934c87729.js",
+      "static/chunks/6992.fd52c609b6f7d7d1.js",
+      "static/css/8f7132b6eba81a39.css",
+      "static/chunks/8181.eaf2efdab33764df.js"
+    ]
+  },
+  "_app.tsx -> components/EasterEgg": {
+    "id": 51418,
+    "files": [
+      "static/chunks/1418.944b23f83963c758.js"
+    ]
+  }
+}
